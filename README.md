@@ -76,7 +76,7 @@ https://github.com/tamaroh/maggie42/tree/main/firmware
 |VIA|maggie42_via.json||
 |VIAL|maggie42_vial.hex|
 
-ソースコードはこちら：https://github.com/tamaroh/qmk_firmware/tree/tamaroh/keyboards/maggie42
+ソースコードはこちら：https://github.com/tamaroh/qmk_firmware/tree/tamaroh/keyboards/tamaroh/maggie42
 ## 注意事項
 - 自作キーボードについての知識がある方を対象としています。
 - 非販売品につき、サポートは対象外としております。
